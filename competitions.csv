@@ -1,0 +1,938 @@
+id,name,category_name,age,performance_metric,gender,start_date
+sr:competition:25357,"UFC Contender Series, Las Vegas, Week 26",UFC,31,0,Female,1993-01-01
+sr:competition:25399,"UFC Fight Night - Boise, Idaho",UFC,31,0,Female,1993-01-01
+sr:competition:25455,UFC 226 - Las Vegas,UFC,31,0,Female,1993-01-01
+sr:competition:25457,"The Ultimate Fighter Finale - Las Vegas, week 27",UFC,31,0,Female,1993-01-01
+sr:competition:25517,"UFC Contender Series, Las Vegas, Week 28",UFC,31,0,Female,1993-01-01
+sr:competition:25613,UFC Fight Night - St. Louis,UFC,31,0,Female,1993-01-01
+sr:competition:25617,UFC 220 - Boston,UFC,31,0,Female,1993-01-01
+sr:competition:25619,UFC Fight Night - Charlotte,UFC,31,0,Female,1993-01-01
+sr:competition:25621,"UFC Fight Night - Belem, Brazil",UFC,31,0,Female,1993-01-01
+sr:competition:25623,UFC 221 - Perth,UFC,31,0,Female,1993-01-01
+sr:competition:25625,UFC Fight Night - Austin,UFC,31,0,Female,1993-01-01
+sr:competition:25627,UFC Fight Night - Orlando,UFC,31,0,Female,1993-01-01
+sr:competition:25629,UFC 222 - Las Vegas,UFC,31,0,Female,1993-01-01
+sr:competition:25631,UFC Fight Night - London,UFC,31,0,Female,1993-01-01
+sr:competition:25633,UFC 223 - Brooklyn,UFC,31,0,Female,1993-01-01
+sr:competition:25635,UFC Fight Night - Glendale,UFC,31,0,Female,1993-01-01
+sr:competition:25637,UFC Fight Night - Atlantic City,UFC,31,0,Female,1993-01-01
+sr:competition:25639,UFC 224 - Rio de Janeiro,UFC,31,0,Female,1993-01-01
+sr:competition:25641,UFC Fight Night - Santiago de Chile,UFC,31,0,Female,1993-01-01
+sr:competition:25643,UFC Fight Night - Liverpool,UFC,31,0,Female,1993-01-01
+sr:competition:25645,UFC Fight Night - Utica,UFC,31,0,Female,1993-01-01
+sr:competition:25647,UFC 225 - Chicago,UFC,31,0,Female,1993-01-01
+sr:competition:25649,"UFC Contender Series, Las Vegas, Week 24",UFC,31,0,Female,1993-01-01
+sr:competition:25651,"UFC Contender Series, Las Vegas, Week 25",UFC,31,0,Female,1993-01-01
+sr:competition:25653,UFC Fight Night - Singapore,UFC,31,0,Female,1993-01-01
+sr:competition:25661,"UFC Contender Series, Las Vegas, Week 29",UFC,31,0,Female,1993-01-01
+sr:competition:25671,UFC Fight Night - Hamburg,UFC,31,0,Female,1993-01-01
+sr:competition:25673,"UFC Contender Series, Las Vegas, Week 30",UFC,31,0,Female,1993-01-01
+sr:competition:25779,UFC Fight Night - Calgary,UFC,31,0,Female,1993-01-01
+sr:competition:25781,UFC 227 - Los Angeles,UFC,31,0,Female,1993-01-01
+sr:competition:25783,UFC Fight Night - Lincoln,UFC,31,0,Female,1993-01-01
+sr:competition:25785,UFC 228 - Dallas,UFC,31,0,Female,1993-01-01
+sr:competition:25787,UFC Fight Night - Moscow,UFC,31,0,Female,1993-01-01
+sr:competition:25789,UFC Fight Night - Sao Paulo,UFC,31,0,Female,1993-01-01
+sr:competition:25791,UFC 229 - Las Vegas,UFC,31,0,Female,1993-01-01
+sr:competition:25793,UFC Fight Night - Moncton,UFC,31,0,Female,1993-01-01
+sr:competition:25795,UFC 230 - New York,UFC,31,0,Female,1993-01-01
+sr:competition:25797,UFC Fight Night - Denver,UFC,31,0,Female,1993-01-01
+sr:competition:25799,UFC Fight Night - Adelaide,UFC,31,0,Female,1993-01-01
+sr:competition:25801,UFC 231 - Toronto,UFC,31,0,Female,1993-01-01
+sr:competition:25803,UFC Fight Night - Milwaukee,UFC,31,0,Female,1993-01-01
+sr:competition:25805,UFC 232 - Los Angeles,UFC,31,0,Female,1993-01-01
+sr:competition:25807,"The Ultimate Fighter Finale - Las Vegas, week 48",UFC,31,0,Female,1993-01-01
+sr:competition:25809,"UFC Contender Series, Las Vegas, Week 31",UFC,31,0,Female,1993-01-01
+sr:competition:25863,"UFC Contender Series, Las Vegas, Week 32",UFC,31,0,Female,1993-01-01
+sr:competition:27364,UFC 233 - Anaheim,UFC,31,0,Male,1993-01-01
+sr:competition:27366,UFC Fight Night - New York,UFC,31,0,Male,1993-01-01
+sr:competition:27472,UFC Fight Night - Beijing,UFC,31,0,Male,1993-01-01
+sr:competition:27474,UFC Fight Night - Buenos Aires,UFC,31,0,Male,1993-01-01
+sr:competition:27735,UFC 234 - Melbourne,UFC,31,0,Female,1993-01-01
+sr:competition:27737,UFC 235 - Las Vegas,UFC,31,0,Female,1993-01-01
+sr:competition:27773,UFC Fight Night - Phoenix,UFC,31,0,Female,1993-01-01
+sr:competition:27775,UFC Fight Night - Castelao,UFC,31,0,Female,1993-01-01
+sr:competition:27777,UFC Fight Night - Wichita,UFC,31,0,Female,1993-01-01
+sr:competition:27779,UFC Fight Night - Prague,UFC,31,0,Female,1993-01-01
+sr:competition:28001,UFC Fight Night - Philadelphia,UFC,31,0,Female,1993-01-01
+sr:competition:28003,UFC Fight Night - Nashville,UFC,31,0,Female,1993-01-01
+sr:competition:28237,UFC 236 - Atlanta,UFC,31,0,Female,1993-01-01
+sr:competition:28243,UFC Fight Night - St. Petersburg,UFC,31,0,Female,1993-01-01
+sr:competition:28388,UFC Fight Night - Sunrise,UFC,31,0,Male,1993-01-01
+sr:competition:28438,UFC Fight Night - Ottawa,UFC,31,0,Male,1993-01-01
+sr:competition:28440,UFC 237 - Barra da Tijuca,UFC,31,0,Male,1993-01-01
+sr:competition:28442,UFC Fight Night - Rochester,UFC,31,0,Male,1993-01-01
+sr:competition:28444,UFC Fight Night - Stockholm,UFC,31,0,Male,1993-01-01
+sr:competition:28446,UFC 238 - Chicago,UFC,31,0,Male,1993-01-01
+sr:competition:28448,UFC Fight Night - Greenville,UFC,31,0,Male,1993-01-01
+sr:competition:28923,UFC 241 - Anaheim,UFC,31,0,Female,1993-01-01
+sr:competition:29039,UFC Fight Night - Minneapolis,UFC,31,0,Female,1993-01-01
+sr:competition:29041,UFC 239 - Las Vegas,UFC,31,0,Female,1993-01-01
+sr:competition:29043,UFC Fight Night - Sacramento,UFC,31,0,Female,1993-01-01
+sr:competition:29045,UFC Fight Night - San Antonio,UFC,31,0,Female,1993-01-01
+sr:competition:29047,UFC 240 - Edmonton,UFC,31,0,Female,1993-01-01
+sr:competition:29073,UFC 242 - Abu Dhabi,UFC,31,0,Female,1993-01-01
+sr:competition:29218,"Dana White Contender Series - Season 3, Week 1",UFC,31,0,Male,1993-01-01
+sr:competition:29278,"Dana White Contender Series, Season 3, Week 2",UFC,31,0,Male,1993-01-01
+sr:competition:29284,UFC Fight Night - Newark,UFC,31,0,Male,1993-01-01
+sr:competition:29286,UFC Fight Night - Montevideo,UFC,31,0,Male,1993-01-01
+sr:competition:29288,"Dana White Contender Series, Season 3, Week 3",UFC,31,0,Male,1993-01-01
+sr:competition:29290,"Dana White Contender Series, Season 3, Week 4",UFC,31,0,Male,1993-01-01
+sr:competition:29498,UFC Fight Night - Shenzhen,UFC,31,0,Male,1993-01-01
+sr:competition:29502,"Dana White Contender Series, Season 3, Week 5",UFC,31,0,Male,1993-01-01
+sr:competition:29504,"Dana White Contender Series, Season 3, Week 6",UFC,31,0,Male,1993-01-01
+sr:competition:29516,"Dana White Contender Series, Season 3, Week 7",UFC,31,0,Male,1993-01-01
+sr:competition:29696,"Dana White Contender Series, Season 3, Week 8",UFC,31,0,Male,1993-01-01
+sr:competition:29764,"Dana White Contender Series, Season 3, Week 9",UFC,31,0,Male,1993-01-01
+sr:competition:29808,UFC Fight Night - Vancouver,UFC,31,0,Male,1993-01-01
+sr:competition:29810,UFC Fight Night - Mexico City,UFC,31,0,Male,1993-01-01
+sr:competition:29910,UFC 243 - Melbourne,UFC,31,0,Male,1993-01-01
+sr:competition:29984,UFC Fight Night Copenhangen,UFC,31,0,Male,1993-01-01
+sr:competition:29986,UFC Fight Night - Boston,UFC,31,0,Male,1993-01-01
+sr:competition:30076,"Dana White Contender Series, Season 3, Week 10",UFC,31,0,Male,1993-01-01
+sr:competition:30370,UFC Fight Night - Tampa,UFC,31,0,Male,1993-01-01
+sr:competition:30374,UFC 244 - New York City,UFC,31,0,Male,1993-01-01
+sr:competition:30376,UFC Fight Night - Washington,UFC,31,0,Male,1993-01-01
+sr:competition:30378,UFC 245 - Las Vegas,UFC,31,0,Male,1993-01-01
+sr:competition:30380,UFC Fight Night - Busan,UFC,31,0,Male,1993-01-01
+sr:competition:31513,UFC 246 - Las Vegas,UFC,31,0,Female,1993-01-01
+sr:competition:31517,UFC Fight Night - Auckland,UFC,31,0,Female,1993-01-01
+sr:competition:31549,UFC Fight Night - Raleigh,UFC,31,0,Female,1993-01-01
+sr:competition:31551,UFC Fight Night - Rio Rancho,UFC,31,0,Female,1993-01-01
+sr:competition:31557,UFC 247 - Houston,UFC,31,0,Female,1993-01-01
+sr:competition:31639,UFC Fight Night - Norfolk,UFC,31,0,Female,1993-01-01
+sr:competition:31641,UFC Fight Night - Brasilia,UFC,31,0,Female,1993-01-01
+sr:competition:31781,UFC Fight Night: Blaydes vs. Daukaus,UFC,31,0,Female,1993-01-01
+sr:competition:32029,"UFC 248, Las Vegas",UFC,31,0,Female,1993-01-01
+sr:competition:32151,UFC Fight Night - Portland,UFC,31,0,Female,1993-01-01
+sr:competition:32153,UFC 249,UFC,31,0,Female,1993-01-01
+sr:competition:32155,UFC Fight Night - Oklahoma,UFC,31,0,Female,1993-01-01
+sr:competition:32157,UFC 250 - Las Vegas,UFC,31,0,Female,1993-01-01
+sr:competition:32455,UFC Fight Night - Jacksonville 1,UFC,31,0,Female,1993-01-01
+sr:competition:32457,UFC Fight Night - Jacksonville 2,UFC,31,0,Female,1993-01-01
+sr:competition:32525,UFC Fight Night - Las Vegas 1,UFC,31,0,Female,1993-01-01
+sr:competition:32573,UFC Fight Night - Las Vegas 2,UFC,31,0,Female,1993-01-01
+sr:competition:32589,UFC Fight Night - Blaydes vs. Volkov,UFC,31,0,Female,1993-01-01
+sr:competition:32625,UFC 251 - Usman vs. Masvidal,UFC,31,0,Female,1993-01-01
+sr:competition:32633,UFC Fight Night - Poirier vs. Hooker,UFC,31,0,Female,1993-01-01
+sr:competition:32655,UFC Fight Night - Brunson vs Shahbazyan,UFC,31,0,Female,1993-01-01
+sr:competition:32657,UFC 252 - Miocic vs. Cormier,UFC,31,0,Female,1993-01-01
+sr:competition:32671,UFC Fight Night - Kattar vs. Ige,UFC,31,0,Female,1993-01-01
+sr:competition:32673,UFC Fight Night - Figueiredo vs. Benavidez,UFC,31,0,Female,1993-01-01
+sr:competition:32675,UFC Fight Night - Whittaker vs. Till,UFC,31,0,Female,1993-01-01
+sr:competition:32903,UFC 253 - Adesanya vs. Costa,UFC,31,0,Female,1993-01-01
+sr:competition:32929,"UFC 254, Khabib vs. Gaethje",UFC,31,0,Female,1993-01-01
+sr:competition:32931,UFC Fight Night - Lewis vs Oleinik,UFC,31,0,Female,1993-01-01
+sr:competition:32933,"Dana White's Contender Series: Season 4, Week 1",UFC,31,0,Female,1993-01-01
+sr:competition:32935,"Dana White's Contender Series: Season 4, Week 2",UFC,31,0,Female,1993-01-01
+sr:competition:32937,"Dana White's Contender Series: Season 4, Week 3",UFC,31,0,Female,1993-01-01
+sr:competition:32939,"Dana White's Contender Series: Season 4, Week 4",UFC,31,0,Female,1993-01-01
+sr:competition:32967,UFC Fight Night - Edgar vs. Munhoz,UFC,31,0,Female,1993-01-01
+sr:competition:33063,UFC Fight Night - Smith vs. Rakic,UFC,31,0,Female,1993-01-01
+sr:competition:33065,"Dana White's Contender Series: Season 4, Week 5",UFC,31,0,Female,1993-01-01
+sr:competition:33067,UFC Fight Night: Overeem vs. Sakai,UFC,31,0,Female,1993-01-01
+sr:competition:33069,UFC Fight Night: Santos vs. Teixeira,UFC,31,0,Female,1993-01-01
+sr:competition:33071,UFC Fight Night: Covington vs. Woodley,UFC,31,0,Female,1993-01-01
+sr:competition:33073,UFC Fight Night: Holm vs. Aldana,UFC,31,0,Female,1993-01-01
+sr:competition:33119,"MMA.UFC.Dana White's Contender Series: Season 4, Week 6",UFC,31,0,Female,1993-01-01
+sr:competition:33121,"MMA.UFC.Dana White's Contender Series: Season 4, Week 7",UFC,31,0,Female,1993-01-01
+sr:competition:33137,UFC Fight Night: Waterson vs. Hill 2020,UFC,31,0,Female,1993-01-01
+sr:competition:33233,UFC Fight Night: Moraes vs Sandhagen,UFC,31,0,Female,1993-01-01
+sr:competition:33235,UFC Fight Night: Ortega vs. The Korean Zombie,UFC,31,0,Female,1993-01-01
+sr:competition:33267,UFC Fight Night - Hall vs. Silva,UFC,31,0,Female,1993-01-01
+sr:competition:33297,"MMA.UFC.Dana White's Contender Series: Season 4, Week 8",UFC,31,0,Female,1993-01-01
+sr:competition:33299,"MMA.UFC.Dana White's Contender Series: Season 4, Week 9",UFC,31,0,Female,1993-01-01
+sr:competition:33301,"MMA.UFC.Dana White's Contender Series: Season 4, Week 10",UFC,31,0,Female,1993-01-01
+sr:competition:33303,UFC Fight Night: Santos vs. Teixeira,UFC,31,0,Female,1993-01-01
+sr:competition:33305,UFC 255 - Figueiredo vs. Perez,UFC,31,0,Female,1993-01-01
+sr:competition:33359,UFC Fight Night - Felder vs. Dos Anjos,UFC,31,0,Female,1993-01-01
+sr:competition:33406,UFC Fight Night - Smith vs. Clark,UFC,31,0,Male,1993-01-01
+sr:competition:33434,UFC Fight Night - Hermansson vs. Vettori,UFC,31,0,Male,1993-01-01
+sr:competition:33440,UFC 256 - Figueiredo vs. Moreno,UFC,31,0,Male,1993-01-01
+sr:competition:33466,UFC Fight Night: Thompson vs. Neal,UFC,31,0,Male,1993-01-01
+sr:competition:33526,UFC Fight Night: Holloway vs. Kattar,UFC,31,0,Male,1993-01-01
+sr:competition:33530,UFC 257: Poirier vs. McGregor 2,UFC,31,0,Male,1993-01-01
+sr:competition:33582,UFC Fight Night: Chiesa vs. Magny,UFC,31,0,Male,1993-01-01
+sr:competition:33716,UFC Fight Night: Overeem vs. Volkov,UFC,31,0,Male,1993-01-01
+sr:competition:33780,UFC 258: Usman vs. Burns,UFC,31,0,Male,1993-01-01
+sr:competition:33792,UFC Fight Night - Blaydes vs. Lewis,UFC,31,0,Male,1993-01-01
+sr:competition:33796,UFC Fight Night - Blaydes vs. Lewis,UFC,31,0,Male,1993-01-01
+sr:competition:33800,UFC Fight Night: Rozenstruik vs. Gane,UFC,31,0,Male,1993-01-01
+sr:competition:33850,UFC 259: Blachowicz vs. Adesanya,UFC,31,0,Male,1993-01-01
+sr:competition:33926,UFC Fight Night - Edwards vs. Muhammad,UFC,31,0,Male,1993-01-01
+sr:competition:33974,UFC Fight Night - Brunson vs. Holland,UFC,31,0,Male,1993-01-01
+sr:competition:34022,UFC 260: Miocic vs. Francis Ngannou,UFC,31,0,Male,1993-01-01
+sr:competition:34084,UFC Fight Night - Holland vs. Vettori,UFC,31,0,Male,1993-01-01
+sr:competition:34108,UFC Fight Night - Whittaker vs. Gastelum,UFC,31,0,Male,1993-01-01
+sr:competition:34166,UFC 261: Usman vs. Masvidal,UFC,31,0,Male,1993-01-01
+sr:competition:34222,UFC Fight Night - Reyes vs. Prochazka,UFC,31,0,Male,1993-01-01
+sr:competition:34276,UFC Fight Night - Waterson vs Rodriguez,UFC,31,0,Male,1993-01-01
+sr:competition:34294,UFC 262: Oliveira vs. Chandler,UFC,31,0,Male,1993-01-01
+sr:competition:34334,UFC Fight Night: Font vs. Garbrandt,UFC,31,0,Male,1993-01-01
+sr:competition:34420,UFC Fight Night - Rozenstruik vs. Sakai,UFC,31,0,Male,1993-01-01
+sr:competition:34462,UFC 263: Adesanya vs. Vettori,UFC,31,0,Male,1993-01-01
+sr:competition:34494,UFC Fight Night - The Korean Zombie vs. Ige,UFC,31,0,Male,1993-01-01
+sr:competition:34530,UFC Fight Night - Gane vs. Volkov,UFC,31,0,Male,1993-01-01
+sr:competition:34550,UFC 264: Poirier vs. McGregor 3,UFC,31,0,Male,1993-01-01
+sr:competition:34552,UFC Fight Night - Makhachev vs. Moises,UFC,31,0,Male,1993-01-01
+sr:competition:34566,UFC Fight Night - Sandhagen vs. Dillashaw,UFC,31,0,Male,1993-01-01
+sr:competition:34568,UFC 265: Lewis vs. Gane,UFC,31,0,Male,1993-01-01
+sr:competition:34570,UFC Fight Night - Cannonier vs. Gastelum,UFC,31,0,Male,1993-01-01
+sr:competition:34572,UFC 266: Volkanovski vs. Ortega,UFC,31,0,Male,1993-01-01
+sr:competition:34610,UFC Fight Night - Hall vs. Strickland,UFC,31,0,Male,1993-01-01
+sr:competition:34824,"Dana White's Contender Series: Season 5, Week 1",UFC,31,0,Male,1993-01-01
+sr:competition:34826,"Dana White's Contender Series: Season 5, Week 2",UFC,31,0,Male,1993-01-01
+sr:competition:34828,"Dana White's Contender Series: Season 5, Week 3",UFC,31,0,Male,1993-01-01
+sr:competition:34830,"Dana White's Contender Series: Season 5, Week 4",UFC,31,0,Male,1993-01-01
+sr:competition:34832,"Dana White's Contender Series: Season 5, Week 5",UFC,31,0,Male,1993-01-01
+sr:competition:34878,UFC Fight Night - Barboza vs. Chikadze,UFC,31,0,Male,1993-01-01
+sr:competition:34976,UFC Fight Night - Brunson vs. Till,UFC,31,0,Male,1993-01-01
+sr:competition:35064,UFC Fight Night - Smith vs. Spann,UFC,31,0,Male,1993-01-01
+sr:competition:35066,UFC 267: Blachowicz vs. Teixeira,UFC,31,0,Male,1993-01-01
+sr:competition:35092,UFC Fight Night - Santos vs. Walker,UFC,31,0,Male,1993-01-01
+sr:competition:35144,UFC Fight Night - Dern vs. Rodriguez,UFC,31,0,Male,1993-01-01
+sr:competition:35146,"Dana White's Contender Series: Season 5, Week 6",UFC,31,0,Male,1993-01-01
+sr:competition:35148,"Dana White's Contender Series: Season 5, Week 7",UFC,31,0,Male,1993-01-01
+sr:competition:35150,UFC 268: Usman vs. Covington 2,UFC,31,0,Male,1993-01-01
+sr:competition:35228,UFC 269: Oliveira vs. Poirier,UFC,31,0,Male,1993-01-01
+sr:competition:35230,UFC Fight Night - Ladd vs. Dumont,UFC,31,0,Male,1993-01-01
+sr:competition:35284,UFC Fight Night - Costa vs. Vettori,UFC,31,0,Male,1993-01-01
+sr:competition:35398,UFC Fight Night - Holloway vs. Rodriguez,UFC,31,0,Male,1993-01-01
+sr:competition:35452,UFC Fight Night - Font vs. Aldo,UFC,31,0,Male,1993-01-01
+sr:competition:35454,UFC Fight Night - Lewis vs. Daukas,UFC,31,0,Male,1993-01-01
+sr:competition:35456,UFC Fight Night - Vieira vs. Tate,UFC,31,0,Male,1993-01-01
+sr:competition:35480,"Dana White's Contender Series: Season 5, Week 10",UFC,31,0,Male,1993-01-01
+sr:competition:35482,"Dana White's Contender Series: Season 5, Week 9",UFC,31,0,Male,1993-01-01
+sr:competition:35484,"Dana White's Contender Series: Season 5, Week 8",UFC,31,0,Male,1993-01-01
+sr:competition:35629,UFC 270: Ngannou vs. Gane,UFC,31,0,Female,1993-01-01
+sr:competition:35849,UFC Fight Night - Kattar vs. Chikadze,UFC,31,0,Female,1993-01-01
+sr:competition:35945,UFC 271: Adesanya vs. Whittaker 2,UFC,31,0,Female,1993-01-01
+sr:competition:35947,UFC 272,UFC,31,0,Female,1993-01-01
+sr:competition:35949,UFC Fight Night - Blachowicz vs. Rakic,UFC,31,0,Female,1993-01-01
+sr:competition:35965,UFC Fight Night - Hermansson vs. Strickland,UFC,31,0,Female,1993-01-01
+sr:competition:35973,UFC Fight Night - Santos vs. Ankalaev,UFC,31,0,Female,1993-01-01
+sr:competition:35977,UFC Fight Night - Makhachev vs. Green,UFC,31,0,Female,1993-01-01
+sr:competition:36053,UFC Fight Night: Walker vs. Hill,UFC,31,0,Female,1993-01-01
+sr:competition:36131,UFC Fight Night: Volkov vs. Aspinall,UFC,31,0,Female,1993-01-01
+sr:competition:36181,UFC 273: Volkanovski vs. Korean Zombie,UFC,31,0,Female,1993-01-01
+sr:competition:36183,UFC Fight Night - Luque vs. Muhammad 2,UFC,31,0,Female,1993-01-01
+sr:competition:36185,UFC Fight Night - Lemos vs. Andrade,UFC,31,0,Female,1993-01-01
+sr:competition:36313,UFC Fight Night: Font vs. Vera,UFC,31,0,Female,1993-01-01
+sr:competition:36367,UFC 274: Oliveira vs. Gaethje,UFC,31,0,Female,1993-01-01
+sr:competition:36521,UFC 275: Teixeira vs. Prochazka,UFC,31,0,Female,1993-01-01
+sr:competition:36523,UFC Fight Night: Holm vs. Vieira,UFC,31,0,Female,1993-01-01
+sr:competition:36525,UFC Fight Night: Blachowicz vs. Rakic,UFC,31,0,Female,1993-01-01
+sr:competition:36597,UFC Fight Night: Volkov vs. Rozenstruik,UFC,31,0,Female,1993-01-01
+sr:competition:36645,UFC Fight Night - London,UFC,31,0,Female,1993-01-01
+sr:competition:36647,UFC Fight Night: Dos Anjos vs. Fiziev,UFC,31,0,Female,1993-01-01
+sr:competition:36649,UFC 276: Adesanya vs. Cannonier,UFC,31,0,Female,1993-01-01
+sr:competition:36665,UFC Fight Night: Kattar vs. Emmett,UFC,31,0,Female,1993-01-01
+sr:competition:36857,UFC Fight Night: Tsarukyan vs. Gamrot,UFC,31,0,Female,1993-01-01
+sr:competition:36885,UFC 277: Pena vs Nunes 2,UFC,31,0,Female,1993-01-01
+sr:competition:36933,UFC Fight Night: Ortega vs. Rodriguez,UFC,31,0,Female,1993-01-01
+sr:competition:36935,UFC Fight Night: Santos vs. Hill,UFC,31,0,Female,1993-01-01
+sr:competition:36991,UFC Fight Night: Gane vs. Tuivasa,UFC,31,0,Female,1993-01-01
+sr:competition:37041,UFC 278: Usman vs. Edwards 2,UFC,31,0,Female,1993-01-01
+sr:competition:37043,"Dana White Contender Series: Season 6, Week 4",UFC,31,0,Female,1993-01-01
+sr:competition:37045,"Dana White Contender Series: Season 6, Week 3",UFC,31,0,Female,1993-01-01
+sr:competition:37047,"Dana White Contender Series: Season 6, Week 2",UFC,31,0,Female,1993-01-01
+sr:competition:37049,"Dana White Contender Series: Season 6, Week 1",UFC,31,0,Female,1993-01-01
+sr:competition:37125,UFC Fight Night: Vera vs. Cruz,UFC,31,0,Female,1993-01-01
+sr:competition:37179,"Dana White Contender Series: Season 6, Week 10",UFC,31,0,Female,1993-01-01
+sr:competition:37181,"Dana White Contender Series: Season 6, Week 9",UFC,31,0,Female,1993-01-01
+sr:competition:37183,"Dana White Contender Series: Season 6, Week 8",UFC,31,0,Female,1993-01-01
+sr:competition:37185,"Dana White Contender Series: Season 6, Week 7",UFC,31,0,Female,1993-01-01
+sr:competition:37187,"Dana White Contender Series: Season 6, Week 6",UFC,31,0,Female,1993-01-01
+sr:competition:37189,"Dana White Contender Series: Season 6, Week 5",UFC,31,0,Female,1993-01-01
+sr:competition:37339,UFC Fight Night: Sandhagen vs. Song,UFC,31,0,Female,1993-01-01
+sr:competition:37341,UFC Fight Night: Dern vs. Xiaonan,UFC,31,0,Female,1993-01-01
+sr:competition:37405,UFC 280: Oliveira vs. Makhachev,UFC,31,0,Female,1993-01-01
+sr:competition:37519,MMA.UFC.UFC 279: Diaz vs. Ferguson,UFC,31,0,Female,1993-01-01
+sr:competition:37611,UFC 281: Adesanya vs. Pereira,UFC,31,0,Female,1993-01-01
+sr:competition:37673,UFC Fight Night: Grasso vs. Araujo,UFC,31,0,Female,1993-01-01
+sr:competition:37675,UFC Fight Night: Kattar vs. Allen,UFC,31,0,Female,1993-01-01
+sr:competition:37759,MMA.UFC.UFC Fight Night: Cannonier vs.Strickland,UFC,31,0,Female,1993-01-01
+sr:competition:37883,MMA.UFC.UFC Fight Night: Rodriguez vs. Lemos,UFC,31,0,Female,1993-01-01
+sr:competition:38027,UFC Fight Night: Thompson vs. Holland,UFC,31,0,Female,1993-01-01
+sr:competition:38033,UFC Fight Night: Nzechukwu vs. Cutelaba,UFC,31,0,Female,1993-01-01
+sr:competition:38209,UFC 282: Blachowicz vs. Ankalaev,UFC,31,0,Female,1993-01-01
+sr:competition:38259,UFC 284: Makhachev vs. Volkanovski,UFC,31,0,Female,1993-01-01
+sr:competition:38261,UFC 283: Teixeira vs. Hill,UFC,31,0,Female,1993-01-01
+sr:competition:38739,UFC Fight Night: Strickland vs. Imavov,UFC,31,0,Female,1993-01-01
+sr:competition:38881,UFC Fight Night: Lewis vs. Spivac,UFC,31,0,Female,1993-01-01
+sr:competition:38903,UFC Fight Night: Andrade vs. Blanchfield,UFC,31,0,Female,1993-01-01
+sr:competition:39029,UFC 285: Jones vs. Gane,UFC,31,0,Female,1993-01-01
+sr:competition:39031,UFC 286: Edwards vs. Usman 3,UFC,31,0,Female,1993-01-01
+sr:competition:39067,UFC Fight Night: Yan vs. Dvalishvili,UFC,31,0,Female,1993-01-01
+sr:competition:39101,UFC 287: Pereira vs. Adesanya 2,UFC,31,0,Female,1993-01-01
+sr:competition:39145,UFC Fight Night: Muniz vs. Allen,UFC,31,0,Female,1993-01-01
+sr:competition:39147,UFC Fight Night: Vera vs. Sandhagen,UFC,31,0,Female,1993-01-01
+sr:competition:39279,UFC Fight Night: Holloway vs. Allen,UFC,31,0,Female,1993-01-01
+sr:competition:39295,UFC Fight Night: Pavlovich vs. Blaydes,UFC,31,0,Female,1993-01-01
+sr:competition:39477,UFC 288: Sterling vs. Cejudo,UFC,31,0,Female,1993-01-01
+sr:competition:39563,UFC Fight Night: Song vs Simon,UFC,31,0,Female,1993-01-01
+sr:competition:39645,UFC Fight Night: Rozenstruik vs. Almeida,UFC,31,0,Female,1993-01-01
+sr:competition:39651,UFC 289: Nunes vs. Aldana,UFC,31,0,Female,1993-01-01
+sr:competition:39697,UFC Fight Night: Dern vs. Hill,UFC,31,0,Female,1993-01-01
+sr:competition:39699,UFC Fight Night: Kara-France vs. Albazi,UFC,31,0,Female,1993-01-01
+sr:competition:39701,UFC Fight Night: Vettori vs. Cannonier,UFC,31,0,Female,1993-01-01
+sr:competition:39703,UFC Fight Night: Emmett vs. Topuria,UFC,31,0,Female,1993-01-01
+sr:competition:39705,UFC Fight Night: Strickland vs. Magomedov,UFC,31,0,Female,1993-01-01
+sr:competition:39883,UFC Fight Night: Aspinall vs. Tybura,UFC,31,0,Female,1993-01-01
+sr:competition:39885,UFC 290: Volkanovski vs. Rodriguez,UFC,31,0,Female,1993-01-01
+sr:competition:39923,UFC 291: Poirier vs. Gaethje 2,UFC,31,0,Female,1993-01-01
+sr:competition:39925,UFC 292: Sterling vs. O'Malley,UFC,31,0,Female,1993-01-01
+sr:competition:39927,UFC Fight Night: Holm vs. Silva,UFC,31,0,Female,1993-01-01
+sr:competition:40051,UFC Fight Night: Luque vs. Dos Anjos,UFC,31,0,Female,1993-01-01
+sr:competition:40189,UFC Fight Night: Holloway vs. The Korean Zombie,UFC,31,0,Female,1993-01-01
+sr:competition:40191,UFC Fight Night: Gane vs. Spivac,UFC,31,0,Female,1993-01-01
+sr:competition:40217,UFC Fight Night: Sandhagen vs. Font,UFC,31,0,Female,1993-01-01
+sr:competition:40291,Noche UFC: Grasso vs. Shevchenko 2,UFC,31,0,Female,1993-01-01
+sr:competition:40371,UFC 295: Prochazka vs. Pereira,UFC,31,0,Female,1993-01-01
+sr:competition:40373,UFC 293: Adesanya vs. Strickland,UFC,31,0,Female,1993-01-01
+sr:competition:40375,UFC 294: Makhachev vs. Volkanovski 2,UFC,31,0,Female,1993-01-01
+sr:competition:40389,"Dana White Contender Series: Season 7, Week 1",UFC,31,0,Female,1993-01-01
+sr:competition:40447,"Dana White Contender Series: Season 7, Week 2",UFC,31,0,Female,1993-01-01
+sr:competition:40449,"Dana White Contender Series: Season 7, Week 3",UFC,31,0,Female,1993-01-01
+sr:competition:40451,"Dana White Contender Series: Season 7, Week 4",UFC,31,0,Female,1993-01-01
+sr:competition:40453,"Dana White Contender Series: Season 7, Week 5",UFC,31,0,Female,1993-01-01
+sr:competition:40455,"Dana White Contender Series: Season 7, Week 6",UFC,31,0,Female,1993-01-01
+sr:competition:40457,"Dana White Contender Series: Season 7, Week 7",UFC,31,0,Female,1993-01-01
+sr:competition:40459,"Dana White Contender Series: Season 7, Week 8",UFC,31,0,Female,1993-01-01
+sr:competition:40461,"Dana White Contender Series: Season 7, Week 9",UFC,31,0,Female,1993-01-01
+sr:competition:40463,"Dana White Contender Series: Season 7, Week 10",UFC,31,0,Female,1993-01-01
+sr:competition:40739,UFC Fight Night: Almeida vs. Lewis,UFC,31,0,Female,1993-01-01
+sr:competition:40741,UFC Fight Night: Fiziev vs. Gamrot,UFC,31,0,Female,1993-01-01
+sr:competition:41017,UFC Fight Night: Dawson vs. Green,UFC,31,0,Female,1993-01-01
+sr:competition:41019,UFC Fight Night: Allen vs. Craig,UFC,31,0,Female,1993-01-01
+sr:competition:41037,UFC Fight Night: Yusuff vs. Barboza,UFC,31,0,Female,1993-01-01
+sr:competition:41146,UFC 296: Edwards vs. Covington,UFC,31,0,Male,1993-01-01
+sr:competition:41534,UFC Fight Night: Dariush vs. Tsarukyan,UFC,31,0,Male,1993-01-01
+sr:competition:41536,UFC Fight Night: Song vs. Gutierrez,UFC,31,0,Male,1993-01-01
+sr:competition:41608,UFC 297: Strickland vs. Du Plessis,UFC,31,0,Male,1993-01-01
+sr:competition:41610,UFC 298: Volkanovski vs. Topuria,UFC,31,0,Male,1993-01-01
+sr:competition:41612,UFC 299: O'Malley vs. Vera 2,UFC,31,0,Male,1993-01-01
+sr:competition:41766,UFC Fight Night: Ankalaev vs. Walker 2,UFC,31,0,Male,1993-01-01
+sr:competition:41822,UFC Fight Night: Hermansson vs. Pyfer,UFC,31,0,Male,1993-01-01
+sr:competition:41887,UFC Fight Night: Dolidze vs. Imavov,UFC,31,0,Female,1993-01-01
+sr:competition:42037,UFC Fight Night: Moreno vs. Royval 2,UFC,31,0,Female,1993-01-01
+sr:competition:42039,UFC Fight Night: Allen vs. Curtis 2,UFC,31,0,Female,1993-01-01
+sr:competition:42041,UFC 300: Pereira vs. Hill,UFC,31,0,Female,1993-01-01
+sr:competition:42127,UFC Fight Night: Tuivasa vs. Tybura,UFC,31,0,Female,1993-01-01
+sr:competition:42129,UFC Fight Night: Ribas vs. Namajunas,UFC,31,0,Female,1993-01-01
+sr:competition:42131,UFC Fight Night: Blanchfield vs Fiorot,UFC,31,0,Female,1993-01-01
+sr:competition:42279,UFC Fight Night: Rozenstruik vs. Gaziev,UFC,31,0,Female,1993-01-01
+sr:competition:42335,UFC 301: Pantoja vs. Erceg,UFC,31,0,Female,1993-01-01
+sr:competition:42471,UFC Fight Night: Nicolau vs. Perez,UFC,31,0,Female,1993-01-01
+sr:competition:42563,UFC Fight Night: Whittaker vs. Aliskerov,UFC,31,0,Female,1993-01-01
+sr:competition:42577,UFC Fight Night: Lewis vs. Nascimento,UFC,31,0,Female,1993-01-01
+sr:competition:42579,UFC Fight Night: Barboza vs. Murphy,UFC,31,0,Female,1993-01-01
+sr:competition:42581,UFC 302: Makhachev vs. Poirier,UFC,31,0,Female,1993-01-01
+sr:competition:42651,UFC 303: Pereira vs. Prochazka 2,UFC,31,0,Female,1993-01-01
+sr:competition:42871,UFC 304: Edwards vs. Muhammad 2,UFC,31,0,Female,1993-01-01
+sr:competition:42995,UFC 305: Du Plessis vs. Adesanya,UFC,31,0,Female,1993-01-01
+sr:competition:43017,UFC Fight Night: Cannonier vs Imavov,UFC,31,0,Female,1993-01-01
+sr:competition:43047,UFC Fight Night: Perez v Taira,UFC,31,0,Female,1993-01-01
+sr:competition:43207,UFC Fight Night: Lemos vs. Jandiroba,UFC,31,0,Female,1993-01-01
+sr:competition:43263,UFC Fight Night: Namajunas vs. Cortez,UFC,31,0,Female,1993-01-01
+sr:competition:43269,UFC Fight Night: Sandhagen vs. Nurmagomedov,UFC,31,0,Female,1993-01-01
+sr:competition:43509,UFC 306: O Malley vs. Dvalishvili,UFC,31,0,Female,1993-01-01
+sr:competition:43543,UFC Fight Night: Tybura vs. Spivac 2,UFC,31,0,Female,1993-01-01
+sr:competition:43579,"Dana White Contender Series: Season 8, Week 2",UFC,31,0,Female,1993-01-01
+sr:competition:43593,"Dana White Contender Series: Season 8, Week 1",UFC,31,0,Female,1993-01-01
+sr:competition:43595,"Dana White Contender Series: Season 8, Week 3",UFC,31,0,Female,1993-01-01
+sr:competition:43605,"Dana White Contender Series: Season 8, Week 4",UFC,31,0,Female,1993-01-01
+sr:competition:43631,UFC Fight Night: Cannonier vs. Borralho,UFC,31,0,Female,1993-01-01
+sr:competition:43633,UFC Fight Night: Moicano vs. Saint Denis,UFC,31,0,Female,1993-01-01
+sr:competition:43673,UFC Fight Night Burns vs. Brady,UFC,31,0,Female,1993-01-01
+sr:competition:43759,UFC 307: Pereira vs. Rountree Jr.,UFC,31,0,Female,1993-01-01
+sr:competition:44121,"Dana White Contender Series: Season 8, Week 5",UFC,31,0,Female,1993-01-01
+sr:competition:44157,UFC 308: Topuria vs. Holloway,UFC,31,0,Female,1993-01-01
+sr:competition:44159,UFC Fight Night Royval vs. Taira,UFC,31,0,Female,1993-01-01
+sr:competition:44161,UFC Fight Night Pereira vs. Hernandez,UFC,31,0,Female,1993-01-01
+sr:competition:44163,"Dana White Contender Series: Season 8, Week 6",UFC,31,0,Female,1993-01-01
+sr:competition:44185,UFC 309: Jones vs. Miocic,UFC,31,0,Female,1993-01-01
+sr:competition:44189,"Dana White Contender Series: Season 8, Week 7",UFC,31,0,Female,1993-01-01
+sr:competition:44191,"Dana White Contender Series: Season 8, Week 8",UFC,31,0,Female,1993-01-01
+sr:competition:44247,"Dana White Contender Series: Season 8, Week 9",UFC,31,0,Female,1993-01-01
+sr:competition:44249,"Dana White Contender Series: Season 8, Week 10",UFC,31,0,Female,1993-01-01
+sr:competition:44525,UFC Fight Night: Moreno vs. Albazi,UFC,31,0,Female,1993-01-01
+sr:competition:44661,UFC 310: Pantoja vs. Asakura,UFC,31,0,Female,1993-01-01
+sr:competition:44835,UFC Fight Night: Magny vs. Prates,UFC,31,0,Female,1993-01-01
+sr:competition:44837,UFC Fight Night: Yan vs. Figueiredo,UFC,31,0,Female,1993-01-01
+sr:competition:45087,UFC Fight Night: Machado Garry vs. Buckley,UFC,31,0,Female,1993-01-01
+
+
+
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import requests
+import seaborn as sns
+from requests.exceptions import ConnectionError, Timeout, RequestException
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
+from tenacity import retry, stop_after_attempt, wait_fixed
+
+# API Key
+API_KEY = "AsO6O3efqwOVVfPu5P6ft4DtrWdHOFnZiL0nWjtu"
+
+HEADERS = {'accept': 'application/json'}
+
+
+# Retry configuration: stop after 3 attempts, wait 2 seconds between attempts
+
+
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+def fetch_data_with_retry(url, headers):
+    try:
+        response = requests.get(url, headers=headers, timeout=10)  # Add timeout
+        response.raise_for_status()  # Raise an exception for HTTP errors
+        return response.json()
+    except ConnectionError:
+        print("Connection error. Please check your internet connection or the API service status.")
+        return None
+    except Timeout:
+        print("Request timed out. The server might be too slow or busy.")
+        return None
+    except RequestException as e:
+        print(f"An error occurred: {e}")
+        return None
+
+
+def test_api_key(api_key):
+    test_url = f"https://api.sportradar.com/mma/trial/v2/en/competitions.json?api_key={api_key}"
+    response = requests.get(test_url)
+    if response.status_code == 200:
+        print("API key is valid")
+    else:
+        print("Invalid API key or request issue")
+
+
+test_api_key(API_KEY)
+
+
+def fetch_competitions(api_key):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitions.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print(f"Failed to fetch competitions.")
+        return None
+
+
+def fetch_champions(api_key):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/champions.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print("Failed to fetch champions")
+        return None
+
+
+def fetch_competitor_summaries(api_key):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitors/sr%3Acompetitor%3A237652/summaries.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        print(response)  # Print the full response for debugging
+        return response
+    else:
+        print("Failed to fetch competitor summaries.")
+        return None
+
+
+def fetch_competitor_profile(api_key, competitor_id):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitors/{competitor_id}/profile.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print(f"Failed to fetch competitor profile.")
+        return None
+
+
+def fetch_rankings(api_key, competition_id):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/{competition_id}/rankings.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print("Failed to fetch rankings.")
+        return None
+
+
+def process_competitions(comp_data):
+    """Function to process competition data"""
+    competitions = comp_data['competitions']
+    competitions_df = pd.DataFrame(competitions)
+    competitions_df['category_name'] = competitions_df['category'].apply(
+        lambda x: x['name'] if pd.notnull(x) else None
+    )
+    competitions_df = competitions_df[['id', 'name', 'category_name']]
+    competitions_df = add_example_data(competitions_df)
+    return competitions_df
+
+
+def fetch_fighter_id(api_key, fighter_name):
+    summaries = fetch_competitor_summaries(api_key)
+    if summaries:
+        print("Summaries fetched successfully:", summaries)  # Debugging line
+        if 'competitors' not in summaries:
+            print("Debug: 'competitors' key not found in the summaries")
+            print(summaries)  # Print the summaries for debugging
+            return None
+        competitors = summaries['competitors']
+        for competitor in competitors:
+            if fighter_name.lower() in competitor['name'].lower():
+                return competitor['id']
+        print("Fighter not found")
+        return None
+    else:
+        return None
+
+
+def fetch_fighter_profile(api_key, fighter_id):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitors/{fighter_id}/profile.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print("Failed to fetch competitor profile.")
+        return None
+
+
+def get_fighter_data(api_key, fighter_name):
+    fighter_id = fetch_fighter_id(api_key, fighter_name)
+    if fighter_id:
+        fighter_profile = fetch_fighter_profile(api_key, fighter_id)
+        if fighter_profile:
+            print(fighter_profile)  # Dövüşçü profilini kontrol edin
+            return pd.DataFrame([fighter_profile])
+        else:
+            print("Fighter profile not found.")
+            return None
+    else:
+        print("Fighter ID not found.")
+        return None
+
+
+def add_example_data(data_frame):
+    """Helper function to add example data for illustration purposes"""
+    data_frame['age'] = 2024 - 2000  # Example age
+    data_frame['performance_metric'] = data_frame['id'].apply(lambda x: len(x) % 10)  # Example metric
+    data_frame['gender'] = data_frame['id'].apply(
+        lambda x: 'Male' if int(x[-1]) % 2 == 0 else 'Female')  # Example gender
+    data_frame['start_date'] = '1993-01-01'  # UFC'nin kuruluş tarihi
+    data_frame['age'] = 2024 - pd.to_datetime(data_frame['start_date']).dt.year  # Recalculate age
+    return data_frame
+
+
+def calculate_legacy_score(fighter_df):
+    # Adding example data for normalization
+    fighter_df['title_defenses'] = fighter_df['id'].apply(lambda x: len(x) % 5)
+    fighter_df['fight_intervals'] = fighter_df['id'].apply(lambda x: len(x) % 3)
+    fighter_df['top10_opponents'] = fighter_df['id'].apply(lambda x: len(x) % 7)
+    fighter_df['wins'] = fighter_df['id'].apply(lambda x: len(x) % 8)
+    fighter_df['losses'] = fighter_df['id'].apply(lambda x: len(x) % 4)
+    fighter_df['total_fights'] = fighter_df['wins'] + fighter_df['losses']
+
+    # Normalize columns
+    columns_to_normalize = ['title_defenses', 'fight_intervals', 'top10_opponents', 'wins', 'losses', 'total_fights']
+    scaler = MinMaxScaler()
+    fighter_df[columns_to_normalize] = scaler.fit_transform(fighter_df[columns_to_normalize])
+
+    # Calculate legacy score
+    fighter_df['legacy_score'] = (
+        fighter_df['title_defenses'] * 0.4 +
+        (1 - fighter_df['fight_intervals']) * 0.2 +  # Lower fight intervals are better
+        fighter_df['top10_opponents'] * 0.2 +
+        fighter_df['wins'] * 0.1 +
+        fighter_df['total_fights'] * 0.1
+    )
+
+    return fighter_df
+
+
+def display_fighter_legacy():
+    """Display fighter legacy score"""
+    fighter_name = input("Please enter the fighter's name: ")
+    fighter_data = get_fighter_data(API_KEY, fighter_name)
+    if fighter_data is not None:
+        fighter_data = calculate_legacy_score(fighter_data)
+        print(fighter_data[['id', 'legacy_score']])
+
+        # Visualize legacy scores
+        plt.figure(figsize=(10, 6))
+        sns.barplot(x='id', y='legacy_score', data=fighter_data)
+        plt.title('Legacy Scores of Fighters')
+        plt.xlabel('Fighter ID')
+        plt.ylabel('Legacy Score')
+        plt.show()
+    else:
+        print("Please enter a valid fighter name.")
+
+
+# Fetch and process data
+
+
+competition_data = fetch_competitions(API_KEY)
+if competition_data:
+    df_competitions = process_competitions(competition_data)
+
+    # Visualize age distribution
+    plt.figure(figsize=(10, 6))
+    sns.histplot(df_competitions['age'], bins=20, kde=True)
+    plt.title('Age Distribution')
+    plt.xlabel('Age')
+    plt.ylabel('Frequency')
+    plt.show()
+
+    # Visualize performance by age
+    plt.figure(figsize=(10, 6))
+    sns.boxplot(x='age', y='performance_metric', data=df_competitions)
+    plt.title('Athlete Performance by Age')
+    plt.xlabel('Age')
+    plt.ylabel('Performance Metric')
+    plt.show()
+
+    # Visualize performance by gender
+    plt.figure(figsize=(10, 6))
+    sns.boxplot(x='gender', y='performance_metric', data=df_competitions)
+    plt.title('Athlete Performance by Gender')
+    plt.xlabel('Gender')
+    plt.ylabel('Performance Metric')
+    plt.show()
+
+    # Prepare data for modeling
+    X = df_competitions[['age', 'category_name', 'gender']]
+    X = pd.get_dummies(X, drop_first=True)
+    y = df_competitions['performance_metric']
+
+    # Split data
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    # Train model
+    model = RandomForestRegressor(n_estimators=100, random_state=42)
+    model.fit(X_train, y_train)
+
+    # Evaluate model
+    y_pred = model.predict(X_test)
+    mse = mean_squared_error(y_test, y_pred)
+    print(f'Mean Squared Error: {mse}')
+
+    # Feature importance
+    feature_importance = model.feature_importances_
+    features = X.columns
+    importance_df = pd.DataFrame({'Feature': features, 'Importance': feature_importance}).sort_values(
+        by='Importance', ascending=False
+    )
+    print(importance_df)
+
+
+# Fetch data for future matches
+
+
+def fetch_future_matches(api_key, competition_id):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitions/{competition_id}/schedule.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print("Failed to fetch future matches.")
+        return None
+
+
+def process_future_matches(future_matches_data):
+    matches = future_matches_data['events']
+    matches_df = pd.DataFrame(matches)
+    matches_df = matches_df[['id', 'competitors', 'scheduled']]
+    matches_df['competitor_1'] = matches_df['competitors'].apply(lambda x: x[0]['name'] if len(x) > 0 else None)
+    matches_df['competitor_2'] = matches_df['competitors'].apply(lambda x: x[1]['name'] if len(x) > 1 else None)
+    return matches_df
+
+# Fetch and process future matches
+
+
+future_matches_data = fetch_future_matches(API_KEY, "UFC")  # Replace "UFC" with the relevant competition ID
+if future_matches_data:
+    df_future_matches = process_future_matches(future_matches_data)
+    print(df_future_matches.head())
+
+    # Prepare data for prediction
+    future_matches_features = df_future_matches[['competitor_1', 'competitor_2']]
+    future_matches_features = pd.get_dummies(future_matches_features, drop_first=True)
+
+    # Make predictions
+    future_matches_predictions = model.predict(future_matches_features)
+    df_future_matches['predicted_performance_metric'] = future_matches_predictions
+
+    # Display predicted results
+    print(df_future_matches[['id', 'competitor_1', 'competitor_2', 'predicted_performance_metric']])
+
+    # Save the predictions
+    df_future_matches.to_csv('future_matches_predictions.csv', index=False)
+
+
+# Example usage
+display_fighter_legacy()
+
+
+
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import requests
+import seaborn as sns
+from requests.exceptions import ConnectionError, Timeout, RequestException
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler, StandardScaler, LabelEncoder
+from tenacity import retry, stop_after_attempt, wait_fixed
+
+# API Key
+API_KEY = "AsO6O3efqwOVVfPu5P6ft4DtrWdHOFnZiL0nWjtu"
+HEADERS = {'accept': 'application/json'}
+
+
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+def fetch_data_with_retry(url, headers):
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        return response.json()
+    except ConnectionError:
+        print("Connection error. Please check your internet connection or the API service status.")
+        return None
+    except Timeout:
+        print("Request timed out. The server might be too slow or busy.")
+        return None
+    except RequestException as e:
+        print(f"An error occurred: {e}")
+        return None
+
+
+def test_api_key(api_key):
+    test_url = f"https://api.sportradar.com/mma/trial/v2/en/competitions.json?api_key={api_key}"
+    response = requests.get(test_url)
+    if response.status_code == 200:
+        print("API key is valid")
+    else:
+        print("Invalid API key or request issue")
+
+
+test_api_key(API_KEY)
+
+
+def fetch_competitions(api_key):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitions.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print(f"Failed to fetch competitions.")
+        return None
+
+
+def fetch_champions(api_key):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/champions.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print("Failed to fetch champions")
+        return None
+
+
+def fetch_competitor_summaries(api_key):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitors/sr%3Acompetitor%3A237652/summaries.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        print(response)
+        return response
+    else:
+        print("Failed to fetch competitor summaries.")
+        return None
+
+
+def fetch_competitor_profile(api_key, competitor_id):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitors/{competitor_id}/profile.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print(f"Failed to fetch competitor profile.")
+        return None
+
+
+def fetch_rankings(api_key, competition_id):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/{competition_id}/rankings.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print("Failed to fetch rankings.")
+        return None
+
+
+def process_competitions(comp_data):
+    competitions = comp_data['competitions']
+    competitions_df = pd.DataFrame(competitions)
+    competitions_df['category_name'] = competitions_df['category'].apply(
+        lambda x: x['name'] if pd.notnull(x) else None
+    )
+    competitions_df = competitions_df[['id', 'name', 'category_name']]
+    competitions_df = add_example_data(competitions_df)
+    return competitions_df
+
+
+def fetch_fighter_id(api_key, fighter_name):
+    summaries = fetch_competitor_summaries(api_key)
+    if summaries:
+        print("Summaries fetched successfully:", summaries)
+        if 'competitors' not in summaries:
+            print("Debug: 'competitors' key not found in the summaries")
+            print(summaries)
+            return None
+        competitors = summaries['competitors']
+        for competitor in competitors:
+            if fighter_name.lower() in competitor['name'].lower():
+                return competitor['id']
+        print("Fighter not found")
+        return None
+    else:
+        return None
+
+
+def fetch_fighter_profile(api_key, fighter_id):
+    url = f"https://api.sportradar.com/mma/trial/v2/en/competitors/{fighter_id}/profile.json?api_key={api_key}"
+    response = fetch_data_with_retry(url, HEADERS)
+    if response:
+        return response
+    else:
+        print("Failed to fetch competitor profile.")
+        return None
+
+
+def get_fighter_data(api_key, fighter_name):
+    fighter_id = fetch_fighter_id(api_key, fighter_name)
+    if fighter_id:
+        fighter_profile = fetch_fighter_profile(api_key, fighter_id)
+        if fighter_profile:
+            print(fighter_profile)
+            return pd.DataFrame([fighter_profile])
+        else:
+            print("Fighter profile not found.")
+            return None
+    else:
+        print("Fighter ID not found.")
+        return None
+
+
+def add_example_data(data_frame):
+    data_frame['age'] = 2024 - 2000
+    data_frame['performance_metric'] = data_frame['id'].apply(lambda x: len(x) % 10)
+    data_frame['gender'] = data_frame['id'].apply(
+        lambda x: 'Male' if int(x[-1]) % 2 == 0 else 'Female')
+    data_frame['start_date'] = '1993-01-01'
+    data_frame['age'] = 2024 - pd.to_datetime(data_frame['start_date']).dt.year
+    return data_frame
+
+
+def calculate_legacy_score(fighter_df):
+    fighter_df['title_defenses'] = fighter_df['id'].apply(lambda x: len(x) % 5)
+    fighter_df['fight_intervals'] = fighter_df['id'].apply(lambda x: len(x) % 3)
+    fighter_df['top10_opponents'] = fighter_df['id'].apply(lambda x: len(x) % 7)
+    fighter_df['wins'] = fighter_df['id'].apply(lambda x: len(x) % 8)
+    fighter_df['losses'] = fighter_df['id'].apply(lambda x: len(x) % 4)
+    fighter_df['total_fights'] = fighter_df['wins'] + fighter_df['losses']
+
+    columns_to_normalize = ['title_defenses', 'fight_intervals', 'top10_opponents', 'wins', 'losses', 'total_fights']
+    scaler = MinMaxScaler()
+    fighter_df[columns_to_normalize] = scaler.fit_transform(fighter_df[columns_to_normalize])
+
+    fighter_df['legacy_score'] = (
+            fighter_df['title_defenses'] * 0.4 +
+            (1 - fighter_df['fight_intervals']) * 0.2 +
+            fighter_df['top10_opponents'] * 0.2 +
+            fighter_df['wins'] * 0.1 +
+            fighter_df['total_fights'] * 0.1
+    )
+
+    return fighter_df
+
+
+def display_fighter_legacy():
+    fighter_name = input("Please enter the fighter's name: ")
+    fighter_data = get_fighter_data(API_KEY, fighter_name)
+    if fighter_data is not None:
+        fighter_data = calculate_legacy_score(fighter_data)
+        print(fighter_data[['id', 'legacy_score']])
+
+        plt.figure(figsize=(10, 6))
+        sns.barplot(x='id', y='legacy_score', data=fighter_data)
+        plt.title('Legacy Scores of Fighters')
+        plt.xlabel('Fighter ID')
+        plt.ylabel('Legacy Score')
+        plt.show()
+    else:
+        print("Please enter a valid fighter name.")
+
+
+competition_data = fetch_competitions(API_KEY)
+if competition_data:
+    df_competitions = process_competitions(competition_data)
+
+    plt.figure(figsize=(10, 6))
+    sns.histplot(df_competitions['age'], bins=20, kde=True)
+    plt.title('Age Distribution')
+    plt.xlabel('Age')
+    plt.ylabel('Frequency')
+    plt.show()
+
+    plt.figure(figsize=(10, 6))
+    sns.boxplot(x='age', y='performance_metric', data=df_competitions)
+    plt.title('Athlete Performance by Age')
+    plt.xlabel('Age')
+    plt.ylabel('Performance Metric')
+    plt.show()
+
+    plt.figure(figsize=(10, 6))
+    sns.boxplot(x='gender', y='performance_metric', data=df_competitions)
+    plt.title('Athlete Performance by Gender')
+    plt.xlabel('Gender')
+    plt.ylabel('Performance Metric')
+    plt.show()
+
+    X = df_competitions[['age', 'category_name', 'gender']]
+    X = pd.get_dummies(X, drop_first=True)
+    y = df_competitions['performance_metric']
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    rf_model = RandomForestRegressor(n_estimators=100, random_state=42)
+    rf_model.fit(X_train, y_train)
+    y_pred = rf_model.predict(X_test)
+
+    mse = mean_squared_error(y_test, y_pred)
+    r2 = r2_score(y_test, y_pred)
+
+    print(f"Mean Squared Error: {mse}")
+    print(f"R-squared: {r2}")
+
+    plt.figure(figsize=(10, 6))
+    sns.scatterplot(x=y_test, y=y_pred)
+    plt.title('Actual vs Predicted Performance Metrics')
+    plt.xlabel('Actual')
+    plt.ylabel('Predicted')
+    plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'r--')
+    plt.show()
+
+    display_fighter_legacy()
+
+else:
+    print("Failed to fetch competition data.")
